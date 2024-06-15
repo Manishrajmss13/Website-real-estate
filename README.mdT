@@ -1,4 +1,8 @@
-This is a smaple real estate management website done as a part of intership
+This is a smaple real estate management website done as a part of internship
+
+Tech stack:
+  MERN (MongoDB,Express,React,Nodejs)
+  Auth0 (for authentication)
 
 The website demo link:
 https://website-real-estate.vercel.app/
