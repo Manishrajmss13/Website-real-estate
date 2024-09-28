@@ -1,8 +1,5 @@
-This is a sample real estate management website done as a part of internship
-
-Tech stack:
-  MERN (MongoDB,Express,React,Nodejs)
-  Auth0 (for authentication)
+A real estate platform simplifying property transactions by enabling direct communication between buyers and sellers. Features include property listing management, user authentication, secure transactions, and advanced search functionalities.
+Tech: HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express
 
 The website demo link:
 https://website-real-estate.vercel.app/
